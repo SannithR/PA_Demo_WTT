@@ -1,0 +1,268 @@
+.single-player-board {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100vh;
+}
+
+.single-player-board .app-bar-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.single-player-board .frame-5 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #072142;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  height: 100%;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+
+}
+
+.single-player-board .frame-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.single-player-board .frame-7 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 302px;
+  position: relative;
+  width: 100%;
+}
+
+.single-player-board .frame-8 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.single-player-board .mask-group {
+  height: 172px;
+  position: relative;
+  width: 170px;
+}
+
+.single-player-board .frame-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 34px;
+  position: relative;
+}
+
+.single-player-board .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 150px;
+  font-weight: 400;
+  letter-spacing: -3.00px;
+  line-height: 150px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.single-player-board .text-wrapper-2 {
+  color: #40bdff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 90px;
+  font-weight: 400;
+  letter-spacing: -1.80px;
+  line-height: 90px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.single-player-board .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 302px;
+  position: relative;
+}
+
+.single-player-board .frame-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.single-player-board .mask-group-2 {
+  height: 170px;
+  position: relative;
+  width: 170px;
+}
+
+.single-player-board .frame-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 438px;
+}
+
+.single-player-board .frame-13 {
+  align-items: center;
+  background-color: #001633;
+  display: flex;
+  gap: 29px;
+  height: 60px;
+  padding: 8px 24px;
+  position: relative;
+  width: 404px;
+}
+
+.single-player-board .text-wrapper-3 {
+  color: #40bdff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+  line-height: 44px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.single-player-board .line-5 {
+  height: 30.03px !important;
+  object-fit: cover !important;
+  position: relative !important;
+  width: 2px !important;
+}
+
+.single-player-board .text-wrapper-4 {
+  color: #d9d9d9;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+  line-height: 44px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.single-player-board .text-wrapper-5 {
+  color: #d9d9d9;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+  line-height: 44px;
+  margin-right: -5.00px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.single-player-board .frame-14 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #000000;
+  border-color: #40bdff;
+  border-right-style: solid;
+  border-right-width: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.single-player-board .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: -0.72px;
+  line-height: 44px;
+  margin-top: -4.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.single-player-board .frame-15 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.single-player-board .text-wrapper-7 {
+  color: #d9d9d9;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.single-player-board .avatar-instance {
+  background-image: url(./image-5.png) !important;
+  position: relative !important;
+}
+
+.single-player-board .div-wrapper {
+  align-items: center;
+  border: 1px solid;
+  border-color: #a8c7f0;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 4px 8px;
+  position: relative;
+}
+
+.single-player-board .p {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  
+  margin-bottom: 0px;
+}
+
+.single-player-board .table-tennis {
+  height: 31px !important;
+  left: -48px !important;
+  position: absolute !important;
+  top: 90px !important;
+  width: 31px !important;
+}

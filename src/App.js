@@ -1,6 +1,7 @@
 // App.js
 import React from "react";
 import './styleguide.css';
+import SinglePlayerBoard from "./components/SinglePlayerBoard/SinglePlayerBoard";
 
 import { Routes, Route } from "react-router-dom";
 
@@ -10,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" element={<Sample/>} />
+        <Route path="/" element={<SinglePlayerBoard/>} />
        
       </Routes>
     </div>
