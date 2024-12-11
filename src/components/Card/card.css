@@ -9,7 +9,7 @@
 .card .frame-2 {
   align-items: center;
   align-self: stretch;
-  background-color: #000000;
+  background-color:var( --core-background-bg1-value);
   border-color: #40bdff;
   border-right-style: solid;
   border-right-width: 4px;
@@ -22,7 +22,7 @@
 }
 
 .card .HARIMOTO-synthetic {
-  color: #ffffff;
+  color:var(--core-text-color1-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 36px;
   font-weight: 400;
@@ -43,7 +43,7 @@
 }
 
 .card .TOMOKAZU-synthetic {
-  color: #d9d9d9;
+  color:var(--core-text-color2-value);
   font-family: "Inter-Medium", Helvetica;
   font-size: 20px;
   font-weight: 500;
@@ -65,7 +65,7 @@
 
 .card .frame-4 {
   align-items: center;
-  background-color: #001633;
+  background-color:var( --core-background-bg2-value);
   display: inline-flex;
   gap: 29px;
   height: 60px;
@@ -74,7 +74,7 @@
 }
 
 .card .element-synthetic-clone {
-  color: #d9d9d9;
+  color:var(--core-text-color2-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 36px;
   font-weight: 400;

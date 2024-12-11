@@ -1,6 +1,6 @@
 .app-bar {
   align-items: center;
-  background-color: #000000;
+  background-color:var( --core-background-bg1-value);
   display: flex;
   gap: 24px;
   padding: 16px 0;
@@ -54,7 +54,7 @@
 }
 
 .app-bar .WTT-FINALS-MEN-DOHA {
-  color: #ffffff;
+  color:var(--core-text-color1-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 24px;
   font-weight: 400;
@@ -68,7 +68,7 @@
 }
 
 .app-bar .element-JANUARY-MAY {
-  color: #40bdff;
+  color:var( --core-highlight-value);
   font-family: "Inter-SemiBold", Helvetica;
   font-size: 18px;
   font-weight: 600;

@@ -1,0 +1,38 @@
+:root {
+  --core-background-bg1-value: #000000;
+  --core-background-bg1-description: color changed;
+  --core-background-bg2-value: #001633;
+  --core-background-bg0-value: #082243;
+  --core-highlight-value: #40BDFF;
+  --core-lines-value: #968E8E;
+  --core-buttonborder-value: #A8C8F0;
+  --core-icon-color-value: #FFFFFF;
+  --core-text-color1-value: #ffffff;
+  --core-text-color2-value: #D9D9D9;
+  --core-text-highlight-value: {highlight};
+  --core-desktop-header-title-value-fontWeight: 700;
+  --core-desktop-header-title-value-fontFamily: Inter;
+  --core-desktop-header-title-value-fontSize: 24;
+  --core-desktop-header-time-value-fontFamily: Inter;
+  --core-desktop-header-time-value-fontWeight: 600;
+  --core-desktop-header-time-value-fontSize: 18;
+  --core-desktop-profile-name-value-fontFamily: Inter;
+  --core-desktop-profile-name-value-fontWeight: 700;
+  --core-desktop-profile-name-value-fontSize: 36;
+  --core-desktop-profile-country-value-fontFamily: Inter;
+  --core-desktop-profile-country-value-fontWeight: 500;
+  --core-desktop-profile-country-value-fontSize: 20;
+  --core-desktop-profile-number-value-fontFamily: Inter;
+  --core-desktop-profile-number-value-fontWeight: 700;
+  --core-desktop-profile-number-value-fontSize: 36;
+  --core-desktop-button-text-value-fontFamily: Inter;
+  --core-desktop-button-text-value-fontWeight: 700;
+  --core-desktop-button-text-value-fontSize: 20;
+  --core-desktop-score-big-value-fontFamily: Inter;
+  --core-desktop-score-big-value-fontWeight: 700;
+  --core-desktop-score-big-value-fontSize: 150;
+  --core-desktop-score-small-value-fontFamily: Inter;
+  --core-desktop-score-small-value-fontWeight: 700;
+  --core-desktop-score-small-value-fontSize: 90;
+  --$metadata-tokenSetOrder-0: core;
+}
