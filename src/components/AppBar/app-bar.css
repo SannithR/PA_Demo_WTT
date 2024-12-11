@@ -56,7 +56,8 @@
 .app-bar .WTT-FINALS-MEN-DOHA {
   color:var(--core-text-color1-value);
   font-family: "Inter-Regular", Helvetica;
-  font-size: 24px;
+  font-size: calc(var(--core-desktop-header-title-value-fontSize) * 1px);
+
   font-weight: 400;
   letter-spacing: 0;
   line-height: 32px;
@@ -70,7 +71,7 @@
 .app-bar .element-JANUARY-MAY {
   color:var( --core-highlight-value);
   font-family: "Inter-SemiBold", Helvetica;
-  font-size: 18px;
+  font-size: calc(var( --core-desktop-header-time-value-fontSize) * 1px);
   font-weight: 600;
   letter-spacing: 0;
   line-height: 28px;
