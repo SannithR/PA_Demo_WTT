@@ -69,7 +69,9 @@
 .single-player-board .text-wrapper {
   color:var(--core-text-color1-value);
   font-family: "Inter-Regular", Helvetica;
-  font-size: 150px;
+  
+
+  font-size:  calc(var(--core-desktop-score-big-value-fontSize)* 1px);
   font-weight: 400;
   letter-spacing: -3.00px;
   line-height: 150px;
