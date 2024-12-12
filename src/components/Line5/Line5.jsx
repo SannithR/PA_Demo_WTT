@@ -11,7 +11,7 @@ export const Line5 = ({ className }) => {
       xmlns="http://www.w3.org/2000/svg"
     >
       <line
-        className="line-2"
+        className="line-2" 
         stroke="#968E8E"
         x1="0.499844"
         x2="1.50009"

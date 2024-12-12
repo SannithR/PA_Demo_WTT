@@ -24,8 +24,9 @@
 .card .HARIMOTO-synthetic {
   color:var(--core-text-color1-value);
   font-family: "Inter-Regular", Helvetica;
-  font-size: 36px;
-  font-weight: 400;
+
+  font-size:  calc(var(--core-desktop-profile-name-value-fontSize) * 1px);
+  font-weight: var(--core-desktop-profile-name-value-fontWeight); 
   letter-spacing: -0.72px;
   line-height: 44px;
   margin-top: -4.00px;
@@ -45,8 +46,8 @@
 .card .TOMOKAZU-synthetic {
   color:var(--core-text-color2-value);
   font-family: "Inter-Medium", Helvetica;
-  font-size: 20px;
-  font-weight: 500;
+  font-size:  calc(var( --core-desktop-profile-country-value-fontSize) * 1px);
+  font-weight: var(--core-desktop-profile-country-value-fontWeight);
   letter-spacing: 0;
   line-height: 30px;
   margin-top: -1.00px;
