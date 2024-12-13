@@ -1,6 +1,7 @@
 // App.js
 import React from "react";
 import './styleguide.css';
+import MultiPlayerBoard from "./components/MultiPlayerBoard/MultiPlayerBoard";
 import SinglePlayerBoard from "./components/SinglePlayerBoard/SinglePlayerBoard";
 
 import { Routes, Route } from "react-router-dom";
@@ -13,6 +14,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path="/" element={<SinglePlayerBoard/>} />
+        <Route path="/multiplayer" element={<MultiPlayerBoard />} />
        
       </Routes>
     </div>
