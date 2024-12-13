@@ -293,6 +293,7 @@
   text-align: center;
   white-space: nowrap;
   width: fit-content;
+  margin: 0;
 }
 
 .table .image-3 {

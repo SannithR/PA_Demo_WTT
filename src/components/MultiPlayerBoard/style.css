@@ -72,6 +72,7 @@
   position: relative;
   white-space: nowrap;
   width: fit-content;
+  margin: 0;
 }
 
 .multi-player-board .element-JANUARY-MAY {
@@ -85,6 +86,7 @@
   position: relative;
   white-space: nowrap;
   width: fit-content;
+  margin: 0;
 }
 
 .multi-player-board .table-instance {
