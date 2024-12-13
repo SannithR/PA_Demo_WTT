@@ -11,6 +11,59 @@
   --display-xs-medium-letter-spacing: 0px;
   --display-xs-medium-line-height: 32px;
   --gray-200: rgba(234, 236, 240, 1);
+  --gray-50: rgba(249, 250, 251, 1);
+  --layoutbody-background: rgba(240, 242, 245, 1);
+  --layoutheader-background: rgba(0, 21, 41, 1);
+  --shadow-xs: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+  --text-lg-regular-font-family: "Inter", Helvetica;
+  --text-lg-regular-font-size: 18px;
+  --text-lg-regular-font-style: normal;
+  --text-lg-regular-font-weight: 400;
+  --text-lg-regular-letter-spacing: 0px;
+  --text-lg-regular-line-height: 28px;
+  --text-lg-semibold-font-family: "Inter", Helvetica;
+  --text-lg-semibold-font-size: 18px;
+  --text-lg-semibold-font-style: normal;
+  --text-lg-semibold-font-weight: 600;
+  --text-lg-semibold-letter-spacing: 0px;
+  --text-lg-semibold-line-height: 28px;
+  --text-sm-medium-font-family: "Inter", Helvetica;
+  --text-sm-medium-font-size: 14px;
+  --text-sm-medium-font-style: normal;
+  --text-sm-medium-font-weight: 500;
+  --text-sm-medium-letter-spacing: 0px;
+  --text-sm-medium-line-height: 20px;
+  --text-sm-semibold-font-family: "Inter", Helvetica;
+  --text-sm-semibold-font-size: 14px;
+  --text-sm-semibold-font-style: normal;
+  --text-sm-semibold-font-weight: 600;
+  --text-sm-semibold-letter-spacing: 0px;
+  --text-sm-semibold-line-height: 20px;
+  --text-xl-medium-font-family: "Inter", Helvetica;
+  --text-xl-medium-font-size: 20px;
+  --text-xl-medium-font-style: normal;
+  --text-xl-medium-font-weight: 500;
+  --text-xl-medium-letter-spacing: 0px;
+  --text-xl-medium-line-height: 30px;
+  --textcolor: rgba(0, 0, 0, 0.85);
+  --white: rgba(255, 255, 255, 1);
+}
+
+/* The end of the injected content. */
+
+/* This snippet is injected by Anima. Feel free to delete this comment. */
+
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --border-bottom: ;
+  --border-top: ;
+  --display-xs-medium-font-family: "Inter", Helvetica;
+  --display-xs-medium-font-size: 24px;
+  --display-xs-medium-font-style: normal;
+  --display-xs-medium-font-weight: 500;
+  --display-xs-medium-letter-spacing: 0px;
+  --display-xs-medium-line-height: 32px;
+  --gray-200: rgba(234, 236, 240, 1);
   --gray-400: rgba(152, 162, 179, 1);
   --gray-50: rgba(249, 250, 251, 1);
   --layoutbody-background: rgba(240, 242, 245, 1);
