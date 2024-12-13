@@ -3,7 +3,7 @@
   background-color: #072142;
   display: flex;
   flex-direction: column;
-  height: 1032px;
+ 
   position: relative;
 }
 
@@ -12,7 +12,7 @@
   align-self: stretch;
   display: flex;
   flex-direction: column;
-  height: 1032px;
+
   justify-content: space-between;
   position: relative;
   width: 100%;
@@ -25,13 +25,13 @@
   flex-direction: column;
   gap: 10px;
   position: relative;
-  width: 1440px;
+
 }
 
 .match-hub .group {
   height: 70px;
   position: relative;
-  width: 1440px;
+
 }
 
 .match-hub .frame-wrapper {
@@ -40,7 +40,7 @@
   flex-direction: column;
   gap: 24px;
   position: relative;
-  width: 1440px;
+
 }
 
 .match-hub .div-wrapper {
@@ -53,13 +53,13 @@
   gap: 10px;
   padding: 0px 50px;
   position: relative;
-  width: 100%;
+ 
 }
 
 .match-hub .div {
   height: 70px;
   position: relative;
-  width: 1340px;
+
 }
 
 .match-hub .overlap-wrapper {
@@ -69,7 +69,7 @@
 .match-hub .overlap {
   height: 69px;
   position: relative;
-  width: 1340px;
+
 }
 
 .match-hub .frame-2 {
@@ -81,7 +81,7 @@
   padding: 16px;
   position: absolute;
   top: 0;
-  width: 1340px;
+
 }
 
 .match-hub .logo-wrapper {
@@ -235,7 +235,7 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 50px;
-  margin-top: -80px;
+
   position: relative;
   width: 100%;
 }
@@ -246,6 +246,8 @@
   flex: 0 0 auto;
   flex-direction: column;
   position: relative;
+  width: 982px;
+
 }
 
 .match-hub .frame-9 {

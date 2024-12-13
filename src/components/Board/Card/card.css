@@ -1,0 +1,33 @@
+.card2 {
+  align-items: flex-start;
+  background-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px;
+  position: relative;
+  height: 214px;
+}
+
+.card .mask-group {
+  align-self: stretch;
+  height: 172px;
+  margin-bottom: -6979.54px;
+  margin-left: -595.00px;
+  position: relative;
+  width: 100%;
+}
+
+.card2 .multi-player-board {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

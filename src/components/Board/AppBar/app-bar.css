@@ -1,0 +1,38 @@
+.app-bar2 {
+  align-items: center;
+  background-color: #000000;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  padding: 16px;
+  position: relative;
+
+}
+
+.app-bar2 .frame {
+  height: 36.54px;
+  position: relative;
+  width: 146px;
+}
+
+.app-bar2 .logo {
+  height: 37px;
+  position: relative;
+  width: 146px;
+}
+
+.app-bar2 .img {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.app-bar2 .WTT-2 {
+  height: 19px;
+  left: 82px;
+  position: absolute;
+  top: 12px;
+  width: 64px;
+}

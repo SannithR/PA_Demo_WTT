@@ -60,93 +60,96 @@ export default function MatchHub  () {
         </div>
 
         <div className="frame-4">
-          <div className="frame-5">
-            <div className="frame-6">
-              <div className="text-wrapper-3">Let</div>
+       
+
+          <div className="frame-7">
+          <div style={{display: 'flex'}}>
+          <div className="frame-8">
+          <div className="frame-9">
+            <div className="frame-10">
+              <div className="frame-3">
+                <div className="frame-11">
+                  <Vector className="vector-instance" />
+                  <div className="frame-12">
+                    <div className="group-4">
+                      <div className="rectangle" />
+
+                      <div className="rectangle-2" />
+
+                      <div className="rectangle-3" />
+                    </div>
+                  </div>
+                </div>
+
+                <div className="text-wrapper-4">Score Edit</div>
+              </div>
+
+              <div className="text-wrapper-5">SSQ</div>
+            </div>
+
+            <div className="frame-13">
+              <div className="text-wrapper-6">G1</div>
+            </div>
+
+            <div className="frame-13">
+              <div className="text-wrapper-6">G2</div>
+            </div>
+
+            <div className="frame-13">
+              <div className="text-wrapper-6">G3</div>
+            </div>
+
+            <div className="frame-13">
+              <div className="text-wrapper-6">G4</div>
+            </div>
+
+            <div className="frame-14">
+              <div className="text-wrapper-6">G5</div>
             </div>
           </div>
 
-          <div className="frame-7">
-            <div className="frame-8">
-              <div className="frame-9">
-                <div className="frame-10">
-                  <div className="frame-3">
-                    <div className="frame-11">
-                      <Vector className="vector-instance" />
-                      <div className="frame-12">
-                        <div className="group-4">
-                          <div className="rectangle" />
-
-                          <div className="rectangle-2" />
-
-                          <div className="rectangle-3" />
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="text-wrapper-4">Score Edit</div>
-                  </div>
-
-                  <div className="text-wrapper-5">SSQ</div>
-                </div>
-
-                <div className="frame-13">
-                  <div className="text-wrapper-6">G1</div>
-                </div>
-
-                <div className="frame-13">
-                  <div className="text-wrapper-6">G2</div>
-                </div>
-
-                <div className="frame-13">
-                  <div className="text-wrapper-6">G3</div>
-                </div>
-
-                <div className="frame-13">
-                  <div className="text-wrapper-6">G4</div>
-                </div>
-
-                <div className="frame-14">
-                  <div className="text-wrapper-6">G5</div>
-                </div>
-              </div>
-
-              <div className="frame-9">
-                <div className="frame-15">
-                  <div className="text-wrapper-7">HARIMOTO Tomokazu</div>
-                </div>
-
-                <div className="frame-16">
-                  <div className="text-wrapper-6">2</div>
-                </div>
-
-                <div className="frame-17" />
-
-                <div className="frame-17" />
-
-                <div className="frame-17" />
-
-                <div className="frame-18" />
-              </div>
-
-              <div className="frame-9">
-                <div className="frame-15">
-                  <div className="text-wrapper-7">WANG Chuqin</div>
-                </div>
-
-                <div className="frame-16">
-                  <div className="text-wrapper-6">2</div>
-                </div>
-
-                <div className="frame-17" />
-
-                <div className="frame-17" />
-
-                <div className="frame-17" />
-
-                <div className="frame-18" />
-              </div>
+          <div className="frame-9">
+            <div className="frame-15">
+              <div className="text-wrapper-7">HARIMOTO Tomokazu</div>
             </div>
+
+            <div className="frame-16">
+              <div className="text-wrapper-6">2</div>
+            </div>
+
+            <div className="frame-17" />
+
+            <div className="frame-17" />
+
+            <div className="frame-17" />
+
+            <div className="frame-18" />
+          </div>
+
+          <div className="frame-9">
+            <div className="frame-15">
+              <div className="text-wrapper-7">WANG Chuqin</div>
+            </div>
+
+            <div className="frame-16">
+              <div className="text-wrapper-6">2</div>
+            </div>
+
+            <div className="frame-17" />
+
+            <div className="frame-17" />
+
+            <div className="frame-17" />
+
+            <div className="frame-18" />
+          </div>
+        </div>
+        <div className="frame-5">
+        <div className="frame-6">
+          <div className="text-wrapper-3">Let</div>
+        </div>
+      </div></div>
+          
 
             <div className="frame-19">
               <div className="frame-20">
