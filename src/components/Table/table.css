@@ -1,6 +1,6 @@
 .table {
   align-items: center;
-  background-color: #072142;
+  background-color:  var(--core-background-bg0-value);
   display: flex;
   flex-direction: column;
   gap: 48px;
@@ -93,7 +93,7 @@
 }
 
 .table .text-wrapper-2 {
-  color: #d9d9d9;
+  color:  var(--core-text-color2-value);
   font-family: "Inter-Medium", Helvetica;
   font-size: 16px;
   font-weight: 500;
@@ -115,7 +115,7 @@
 
 .table .frame-7 {
   align-items: center;
-  background-color: #001633;
+  background-color:var(--core-background-bg2-value);
   display: inline-flex;
   gap: 16.36px;
   height: 33.85px;
@@ -124,7 +124,7 @@
 }
 
 .table .element-synthetic-clone {
-  color: #d9d9d9;
+  color: var(--core-text-color2-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 24px;
   font-weight: 400;
