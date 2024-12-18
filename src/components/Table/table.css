@@ -59,7 +59,7 @@
 .table .frame-5 {
   align-items: center;
   align-self: stretch;
-  background-color: #000000;
+  background-color:  var(--core-background-bg1-value);
   border-color: #40bdff;
   border-right-style: solid;
   border-right-width: 2.26px;
@@ -72,7 +72,7 @@
 }
 
 .table .text-wrapper {
-  color: #ffffff;
+  color:var(--core-text-color1-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 24px;
   font-weight: 400;
@@ -151,7 +151,7 @@
 }
 
 .table .element-synthetic-clone-2 {
-  color: #ffffff;
+  color: var(--core-text-color1-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 100px;
   font-weight: 400;
@@ -164,7 +164,7 @@
 }
 
 .table .element-synthetic-clone-3 {
-  color: #40bdff;
+  color:  var(--core-highlight-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 50px;
   font-weight: 400;
@@ -206,7 +206,7 @@
 }
 
 .table .element-synthetic-clone-4 {
-  color: #40bdff;
+  color: var(--core-highlight-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 24px;
   font-weight: 400;
@@ -220,7 +220,7 @@
 
 .table .frame-12 {
   align-items: center;
-  background-color: #000000;
+  background-color: var(--core-background-bg1-value);
   border-color: #40bdff;
   border-right-style: solid;
   border-right-width: 2.26px;
@@ -256,7 +256,7 @@
 }
 
 .table .TABLE-synthetic {
-  color: #40bdff;
+  color:  var(--core-highlight-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 24px;
   font-weight: 400;
@@ -282,7 +282,7 @@
 }
 
 .table .men-s-singles-round {
-  color: #ffffff;
+  color:var(--core-text-color1-value);
   font-family: "Inter-Regular", Helvetica;
   font-size: 16px;
   font-weight: 400;
